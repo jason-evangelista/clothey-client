@@ -4,5 +4,8 @@
     "semi": ["error", "never"],
     "no-undef": "error",
     "no-unused-vars": "warn"
+  },
+  "env": {
+    "jest": true
   }
 }
